@@ -3,7 +3,7 @@
 
 ## Sentiment Analysis on Global Warming
 
-<p>Understand emotions, identofy opinions and attitudes towards climate change/global warming through twitter posts and classify viewpoints as positive, negative or neutral.</p>
+<p>Understand emotions, identify opinions and attitudes towards climate change/global warming through twitter posts and classify viewpoints as positive, negative or neutral.</p>
 
 <p>The data set for this project is sourced from Figure Eight platform and the name of the set is Sentiment Analysis on Global Warming/Climate Change. The set contains three classifications: Yes if the tweet suggests global warming existence, No if the tweet is in disagreement, and neutral if the tweet is not engaged on either side. A column with the confidence score for the classification of each tweet is included in the set with a total of 6090 rows.</p>
 
